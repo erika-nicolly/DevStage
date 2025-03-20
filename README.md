@@ -1,6 +1,6 @@
 # DevStage
 
-![Captura de Tela do Projeto](./.github/DevStage.png)
+![Captura de Tela do Projeto](./.github/preview.png)
 
 ## 🚀 Tecnologias
 
