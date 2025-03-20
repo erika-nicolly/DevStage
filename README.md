@@ -1,4 +1,3 @@
-# DevStage
 
 ![Captura de Tela do Projeto](./.github/preview.png)
 
